@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkvue_ego"]=self["webpackChunkvue_ego"]||[]).push([[623],{623:function(e,n,u){u.r(n),u.d(n,{default:function(){return a}});var t=function(){var e=this,n=e._self._c;return n("h2",[e._v("订单汇总")])},r=[],f={name:"Index"},l=f,s=u(1656),c=(0,s.A)(l,t,r,!1,null,"2ef252d2",null),a=c.exports}}]);
+//# sourceMappingURL=623.ad17b1f9.js.map
